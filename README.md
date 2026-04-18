@@ -38,6 +38,7 @@
 ## 2. 系统效果图
 
 ![AI-SOP界面](./AI-sop界面.png)
+<img width="1902" height="1314" alt="93ab72e9557b04fd3213974121f406fb" src="https://github.com/user-attachments/assets/33d00501-70fe-43d7-b8ad-a3aadf254973" />
 
 ---
 
