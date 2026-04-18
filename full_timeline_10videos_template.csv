@@ -1,0 +1,6 @@
+video_name,start_sec,end_sec,step_id,action_label,target_id,part_id,event_type,is_complete,error_type,remark
+mirror_demo_01.mp4,1,32,S1,assemble,base_frame_joint,,base_frame_done,1,,第一步：安装底座与骨架连接处
+mirror_demo_01.mp4,33,46,S2,fix,frame_mirror,,frame_mirror_fix_done,1,,第二步：固定骨架与镜面
+mirror_demo_01.mp4,47,54,S3,screw,right_screw,,right_screw_done,1,,第三步：安装右边螺丝
+mirror_demo_01.mp4,55,67,S4,screw,left_screw,,left_screw_done,1,,第四步：安装左边螺丝
+mirror_demo_01.mp4,68,90,S5,check,final_check,,final_check_done,1,,第五步：安装完成检查
